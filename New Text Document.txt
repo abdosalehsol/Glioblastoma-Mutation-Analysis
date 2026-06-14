@@ -1,0 +1,45 @@
+| Gene | ÏæÑå                         |
+| ---- | ---------------------------- |
+| TP53 | İÑÇãá ÇáÎáíÉ                 |
+| EGFR | ÏæÇÓÉ ÇáÈäÒíä                |
+| IDH1 | ÊäÙíã ÇáÃíÖ æãÄÔÑ ÊÔÎíÕí ãåã |
+
+
+
+
+PTEN — äÙÇã ÇáİÑÇãá ÇáÇÍÊíÇØí
+
+ÊÎíá Ãä EGFR ---->åæ ÏæÇÓÉ ÇáÈäÒíä.
+
+ÅĞä PTEN---> åæ ÃÍÏ Ãåã ÃäÙãÉ ÇáİÑÇãá ÇáÊí ÊãäÚ ÅÔÇÑÇÊ Çáäãæ ãä ÇáÒíÇÏÉ ÇáãİÑØÉ.
+
+İí ÇáÎáíÉ ÇáØÈíÚíÉ:
+
+EGFR
+   ?
+Growth Signals
+   ?
+PTEN controls them
+
+
+İí ßËíÑ ãä ÍÇáÇÊ ÇáÌáÇíæÈáÇÓÊæãÇ:
+
+PTEN Loss
+     ?
+Growth pathway overactivation
+     ?
+Tumor progression
+
+Ãí Ãä ÇáÎáíÉ ÊİŞÏ ÌÒÁğÇ ãåãğÇ ãä ÇáÓíØÑÉ Úáì Çáäãæ.
+
+PTEN
+
+Function:
+Tumor suppressor that regulates cell growth signaling.
+
+Common Mutation:
+Deletion or loss-of-function mutations.
+
+Clinical Importance:
+Loss of PTEN promotes tumor progression and aggressiveness.
+

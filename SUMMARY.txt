@@ -1,0 +1,12 @@
+ÇבÇÎÊÕÇÑ	ÇבÇÓד Çב‗Çדב	                                                ÇבÏזÑ ÇבדÈÓØ
+
+
+TP53	Tumor Protein p53 -----	               ÍÇÑÓ ÇבÌםהזד¡ םÑÇÞÈ ÊבÝ ÇבÜDNA זםדהÚ הדז ÇבÎבÇםÇ ÛםÑ ÇבØÈםÚם
+
+EGFR	Epidermal Growth Factor Receptor ------	       דÓÊÞÈב ÚÇדב הדז ÇבÈÔÑÉ¡ םÍÝÒ הדז זÇהÞÓÇד ÇבÎבÇםÇ
+
+IDH1	Isocitrate Dehydrogenase 1-----	               ÅהÒםד דוד Ýם ÚדבםÇÊ ÇבÃםÖ זÅהÊÇÌ ÇבØÇÞÉ ÏÇÎב ÇבÎבםÉ
+
+PTEN	Phosphatase and Tensin Homolog-	               דËÈØ בבÃזÑÇד¡ םהÙד ÅÔÇÑÇÊ Çבהדז זםדהÚ ÇבÊ‗ÇËÑ ÇבדÝÑØ
+
+TERT	Telomerase Reverse Transcriptase---	ÇבÌÒÁ ÇבדÍÝÒ בÅהÒםד ÇבÊםבזדםÑÇÒ ÇבדÓÄזב Úה ÇבÍÝÇÙ Úבל ÇבÊםבזדםÑÇÊ

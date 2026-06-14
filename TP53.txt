@@ -1,0 +1,24 @@
+TP53  -----(Genome Guardian)
+Function:
+Common Mutation:
+Clinical Importance:
+
+EGFR----(Growth Accelerator)
+Function:
+Common Mutation
+Clinical Importance:
+
+IDH1---(Metabolism Gene)
+Function:
+Common Mutation:
+Clinical Importance:
+
+PTEN----(Growth Brake)
+Function:
+Common Mutation:
+Clinical Importance:
+
+TERT----(Cell Lifespan Controller)
+Function:
+Common Mutation:
+Clinical Importance:

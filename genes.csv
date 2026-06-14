@@ -1,0 +1,6 @@
+Gene,Full_Name,Function,Common_Mutation
+TP53,Tumor Protein p53,DNA damage control,Loss of function
+EGFR,Epidermal Growth Factor Receptor,Cell growth signaling,EGFRvIII amplification
+IDH1,Isocitrate Dehydrogenase 1,Cell metabolism,R132H
+PTEN,Phosphatase and Tensin Homolog,Tumor suppression,Deletion
+TERT,Telomerase Reverse Transcriptase,Telomere maintenance,Promoter mutation
