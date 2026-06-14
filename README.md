@@ -87,3 +87,13 @@ The analysis showed:
 Dr. Abdulrahman Saleh
 
 Bioinformatics Portfolio Project
+## Results
+
+### Mutation Bar Chart
+![Bar Chart](mutation_bar_chart.png)
+
+### Mutation Distribution Pie Chart
+![Pie Chart](mutation_pie_chart.png)
+
+### Mutation Heatmap
+![Heatmap](heatmap.png)
